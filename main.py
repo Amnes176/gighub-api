@@ -4,7 +4,7 @@ from typing import Optional, Literal
 
 app = FastAPI(
     title="GigHub API",
-    description="API for managing freelance gigs in Nairobi.\nAdmission Number: C027-01-0898/2024",
+    description="Registration Number: C027-01-0898/2024.\nAPI for freelance gigs in Nairobi.",
     version="1.0.0",
     docs_url="/",
     redoc_url=None,        # disable ReDoc
